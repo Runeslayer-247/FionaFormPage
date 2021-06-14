@@ -2,6 +2,9 @@
   box-sizing: border-box;
 }
 
+
+/* make responsive by removing picture and centering */
+
 body {
   height: 100vh;
 }
